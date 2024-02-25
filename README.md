@@ -1,5 +1,5 @@
 <div align="center" style="font-family: 'Courier New', Courier, monospace;">
-    <img src="https://avatars.githubusercontent.com/u/89961436?v=4" />
+<!--     <img src="https://avatars.githubusercontent.com/u/89961436?v=4" /> -->
     <div align="center">
         <img src="https://media.tenor.com/YS953_mYCQ4AAAAj/kitty-kitty-paw.gif" alt="cat-foot" width="30" height="30"/>
     </div>
