@@ -4,7 +4,6 @@
         <img src="https://media.tenor.com/YS953_mYCQ4AAAAj/kitty-kitty-paw.gif" alt="cat-foot" width="30" height="30"/>
     </div>
     <h1>Holaa! I'm GR4YC4T</h1>
-    <small>A passionate 4th-year BSIT Student from the Philippines <img src="https://media.baamboozle.com/uploads/images/206818/1616118396_73840_gif-url.gif" width=auto height=30></small>
 </div>
 
 <hr>
