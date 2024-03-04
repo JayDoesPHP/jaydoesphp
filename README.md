@@ -1,13 +1,3 @@
-<div align="center" style="font-family: 'Courier New', Courier, monospace;">
-<!--     <img src="https://avatars.githubusercontent.com/u/89961436?v=4" /> -->
-    <div align="center">
-        <img src="https://media.tenor.com/YS953_mYCQ4AAAAj/kitty-kitty-paw.gif" alt="cat-foot" width="30" height="30"/>
-    </div>
-    <h1>Holaa! I'm GR4YC4T</h1>
-</div>
-
-<hr>
-
 <pre style="font-size: 12px; margin: 20px;">
 <p>
     I am an enthusiastic web developer passionate about creating impactful digital experiences. 
