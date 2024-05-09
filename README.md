@@ -4,12 +4,13 @@
 <pre style="font-size: 12px; margin: 20px;">
 <p>
     I am an enthusiastic web developer. 
-    Specializing in crafting applications using PHP, I am currently a fourth-year BSIT student 
+    I specialize in crafting applications using PHP, and I am currently a fourth-year BSIT student 
     on the verge of graduation. My academic journey has provided me with a solid foundation, 
     and I am consistently exploring new technologies to further enhance my skills.
     <hr>
     📝 I'm really into backend work, like APIs, authentication, and server-side logic.
     🌟 Main languages: PHP, JavaScript
     🚩 In short, I'm interested in making web applications.
+    🔬 Currently studying livewire-laravel, Laravel, and some newer CSS frameworks such as Tailwind CSS (DaisyUI) - Target Stack: TALL.
 </p>
 </pre>
