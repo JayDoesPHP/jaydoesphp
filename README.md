@@ -3,10 +3,7 @@
 
 <pre style="font-size: 12px; margin: 20px;">
 <p>
-    I am an enthusiastic web developer. 
-    I specialize in crafting applications using PHP, and I am currently a fourth-year BSIT student 
-    on the verge of graduation. My academic journey has provided me with a solid foundation, 
-    and I am consistently exploring new technologies to further enhance my skills.
+    -> echo "I love ₱";
     <hr>
     📝 I'm really into backend work, like APIs, authentication, and server-side logic.
     🌟 Main languages: PHP, JavaScript
