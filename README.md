@@ -3,7 +3,7 @@
 
 <pre style="font-size: 12px; margin: 20px;">
 <p>
-    -> echo "I love ₱";
+    -> echo "I love PHP";
     <hr>
     📝 I'm really into backend work, like APIs, authentication, and server-side logic.
     🌟 Main languages: PHP, JavaScript
