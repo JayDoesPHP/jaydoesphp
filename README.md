@@ -1,6 +1,3 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Jay.;I'm+a+student+in+Philippines.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
-
 <pre style="font-size: 12px; margin: 20px;">
 <p>
     -> echo "I love PHP";
