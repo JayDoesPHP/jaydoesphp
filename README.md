@@ -12,9 +12,10 @@
 ---
 
 ## 👨‍💻 About Me  
-🔭 **Projects:**  
-- Developing clinic management systems.  
-- Creating school administration tools.  
+🔭 **Some of My Projects:**  
+- Dental Management System
+- Guidance File System
+- Student Reporting with Parent Email Notification System
 
 🌱 **Currently Learning:**  
 - Advanced **PHP** techniques.  
