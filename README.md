@@ -59,7 +59,7 @@ class Developer
     public function getTools()
     {
         return [
-            "Frameworks" => ["Laravel", "Laravel-Livewire", FilamentPHP],
+            "Frameworks" => ["Laravel", "Laravel Livewire", "FilamentPHP"],
             "Frontend" => ["Bootstrap"],
             "Database" => ["MySQL"],
             "Other Tools" => ["Git"],
