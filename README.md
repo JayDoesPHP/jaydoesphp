@@ -10,7 +10,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Laravel Livewire](https://img.shields.io/badge/Laravel%20Livewire-4E56A6?style=for-the-badge&logo=laravel&logoColor=white)  
 
 **⚙️ Backend:**  
@@ -20,11 +19,9 @@
 
 **🛢️ Database:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
 **☁️ Deployment:**  
 ![DigitalOcean](https://img.shields.io/badge/Digital%20Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)  
-![Hostinger](https://img.shields.io/badge/Hostinger-673AB7?style=for-the-badge&logo=hostinger&logoColor=white)  
 
 ---
 
