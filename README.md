@@ -51,7 +51,7 @@ class Developer
     public $name = "Ar Jay Marigondon";
     public $role = "Web Developer";
     public $email = "jaydoesphp@gmail.com";
-    public $skills = ["PHP", "Laravel", "JavaScript", "Bootstrap", "Tailwind CSS", "MySQL"];
+    public $skills = ["PHP", "Laravel", "JavaScript", "Bootstrap", "MySQL"];
     public $tools = ["VS Code", "GitHub", "Terminal"];
     public $nonStopLearning = true;
     public $satisfied = false;
@@ -59,10 +59,10 @@ class Developer
     public function getTools()
     {
         return [
-            "Frameworks" => ["Laravel", "Laravel-Livewire"],
-            "Frontend" => ["Bootstrap", "Tailwind CSS"],
+            "Frameworks" => ["Laravel", "Laravel-Livewire", FilamentPHP],
+            "Frontend" => ["Bootstrap"],
             "Database" => ["MySQL"],
-            "Other Tools" => ["Git", "Filament"],
+            "Other Tools" => ["Git"],
         ];
     }
 
