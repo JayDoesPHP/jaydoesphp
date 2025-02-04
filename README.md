@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Ar Jay Marigondon!  
-🎯 **Web Developer Specializing in PHP** | 💻 **3+ Years of Experience**  
+🎯 **Web Developer** | 💻 **3+ Years in PHP**  
 
 ---
 
