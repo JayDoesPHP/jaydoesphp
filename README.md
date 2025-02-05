@@ -17,7 +17,7 @@
 
 🌱 **Currently Learning:**  
 - Advanced **PHP** techniques.  
-- **Python** and **Kivy** for app development.  
+- **Javascript** basic to advance.  
 
 📫 **Get in Touch:**  
 - Email: [jaydoesphp@gmail.com](mailto:jaydoesphp@gmail.com)  
