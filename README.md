@@ -14,20 +14,7 @@ class Developer
     public $name = "Ar Jay Marigondon";
     public $role = "Web Developer";
     public $email = "jaydoesphp@gmail.com";
-    public $tech_stack = ["PHP", "Laravel", "JavaScript", "Bootstrap", "MySQL"];
-    public $tools = ["VS Code", "GitHub", "Terminal"];
-    public $nonStopLearning = true;
     public $satisfied = false;
-
-    public function getTools()
-    {
-        return [
-            "Frameworks" => ["Laravel", "Laravel Livewire", "FilamentPHP"],
-            "Frontend" => ["Bootstrap"],
-            "Database" => ["MySQL"],
-            "Other Tools" => ["Git"],
-        ];
-    }
 
     public function work()
     {
@@ -36,10 +23,5 @@ class Developer
         }
 
         return "Happy Coding!";
-    }
-
-    public function letsCollaborate()
-    {
-        return "I'm open for collaboration! Reach me at: " . $this->email;
     }
 }
