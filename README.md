@@ -1,6 +1,14 @@
 <h1 align="center">👽✨ Greetings, Earthling! I'm Ar Jay Marigondon! 🚀✨</h1> 
-<p align="center"> 🎯 <strong>Web Developer</strong> | 💻 <strong>3+ Years in PHP</strong> | 🛠️ <strong>Code, Coffee ☕ / Water 💧, Repeat!</strong> 🌌 </p><div align="center"> 
-<img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" alt="Alien Coding Animation" width="100" /> </div>
+
+<div align="center"> 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjIyYXpweTBzdzF6cHNuYW9yOG9rZXFjaXFtOHJhZXRyMmtwcWo1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9WQLSrsQKH3uBbiXq/giphy.gif" alt="Alien Vibes" width="50" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjIyYXpweTBzdzF6cHNuYW9yOG9rZXFjaXFtOHJhZXRyMmtwcWo1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9WQLSrsQKH3uBbiXq/giphy.gif" alt="Alien Vibes" width="50" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjIyYXpweTBzdzF6cHNuYW9yOG9rZXFjaXFtOHJhZXRyMmtwcWo1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9WQLSrsQKH3uBbiXq/giphy.gif" alt="Alien Vibes" width="50" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjIyYXpweTBzdzF6cHNuYW9yOG9rZXFjaXFtOHJhZXRyMmtwcWo1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9WQLSrsQKH3uBbiXq/giphy.gif" alt="Alien Vibes" width="50" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjIyYXpweTBzdzF6cHNuYW9yOG9rZXFjaXFtOHJhZXRyMmtwcWo1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9WQLSrsQKH3uBbiXq/giphy.gif" alt="Alien Vibes" width="50" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjIyYXpweTBzdzF6cHNuYW9yOG9rZXFjaXFtOHJhZXRyMmtwcWo1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9WQLSrsQKH3uBbiXq/giphy.gif" alt="Alien Vibes" width="50" />
+</div>
+
 
 ---
 
