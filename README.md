@@ -19,8 +19,8 @@
 ![JQUERY](https://img.shields.io/badge/jquery-0769ad?style=for-the-badge&logo=jquery&logoColor=white) 
 ![AJAX](https://img.shields.io/badge/AJAX-007FFF?style=for-the-badge&logo=javascript&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-712cf9?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-00bcff?style=for-the-badge&logo=tailwindcss&logoColor=white) 
 ![Sass](https://img.shields.io/badge/SASS-cf649a?style=for-the-badge&logo=SASS&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-00bcff?style=for-the-badge&logo=tailwindcss&logoColor=white) 
 ![Laravel Livewire](https://img.shields.io/badge/Livewire-fb70a9?style=for-the-badge&logo=livewire&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
 ![FilamentPHP](https://img.shields.io/badge/filamentphp-fdae4b?style=for-the-badge&logo=filament&logoColor=white) 
@@ -30,10 +30,13 @@
 ![Insomnia](https://img.shields.io/badge/insomnia-6400d7?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ## 🛠️ Skills in Progress 
+![WooCommerce](https://img.shields.io/badge/WooCommerce-873EFF?style=for-the-badge&logo=woo&logoColor=white)
+![Wordpress](https://img.shields.io/badge/WordPress-3858e9?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=react&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1d63ed?style=for-the-badge&logo=Docker&logoColor=white)
 
 ## 🧑‍💻 Developer's Note  
 
