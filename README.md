@@ -21,5 +21,5 @@
 - 🐳 Docker
 - 🗄️ PostgreSQL
 
-![](https://komarev.com/ghpvc/?username=JayDoesPHP&style=flat-square&color=brightgreen&label=Visits) 
+![](https://komarev.com/ghpvc/?username=JayDoesPHP&style=flat-square&color=22d4b5&label=Visits) 
 ![GitHub followers](https://img.shields.io/github/followers/jaydoesphp)
