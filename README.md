@@ -1,13 +1,5 @@
 ## **Hi There** 👋
 
-<div align="center"> 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZudGFmdXJmd3U4MXNiNjU0NmNtNzZqYzRxaTF4Nzg3OWxwaWdjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xCCqt6qDewWf6zriPX/giphy.gif" alt="Alien Vibes" width="50" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZudGFmdXJmd3U4MXNiNjU0NmNtNzZqYzRxaTF4Nzg3OWxwaWdjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xCCqt6qDewWf6zriPX/giphy.gif" alt="Alien Vibes" width="50" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZudGFmdXJmd3U4MXNiNjU0NmNtNzZqYzRxaTF4Nzg3OWxwaWdjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xCCqt6qDewWf6zriPX/giphy.gif" alt="Alien Vibes" width="50" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZudGFmdXJmd3U4MXNiNjU0NmNtNzZqYzRxaTF4Nzg3OWxwaWdjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xCCqt6qDewWf6zriPX/giphy.gif" alt="Alien Vibes" width="50" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZudGFmdXJmd3U4MXNiNjU0NmNtNzZqYzRxaTF4Nzg3OWxwaWdjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xCCqt6qDewWf6zriPX/giphy.gif" alt="Alien Vibes" width="50" />
-</div>
-
 > /tech enthusiast/
 
 ## 🧰 My Current Tools 
