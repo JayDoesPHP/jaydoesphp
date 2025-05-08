@@ -1,6 +1,6 @@
 ## **Hi There** 👋
 
-> /tech enthusiast/
+> / ahh ehh? 
 
 ## 🧰 My Current Tools 
 - 🌍 Web with HTML5, CSS3 (Sass, TailwindCSS, Bootstrap), JavaScript (jQuery, AJAX)
