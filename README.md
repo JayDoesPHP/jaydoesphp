@@ -3,13 +3,14 @@
 > / ahh ehh? 
 
 ## 🧰 My Current Tools 
-- 🌍 Web with HTML5, CSS3 (Sass, TailwindCSS, Bootstrap), JavaScript (jQuery, AJAX)
+- 🌍 Web with HTML5, CSS3 (Sass, TailwindCSS, Bootstrap), JavaScript (jQuery, AJAX), Alpine.js
 - ⚙️ Backend with PHP (Laravel, Laravel Livewire, FilamentPHP), MySQL
 - ☁️ Tools & Platforms: DigitalOcean, Postman, Insomnia
 
 ## 🚀 Skills in Progress
 - 🛒 WooCommerce, WordPress
 - ⚛️ Next.js, React.js, ShadCN, TypeScript
+- 🐍 Django 
 - 🐳 Docker
 - 🗄️ PostgreSQL
 
