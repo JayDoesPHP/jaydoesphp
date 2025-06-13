@@ -1,18 +1,12 @@
 ## **Hi There** 👋
 
-> / ahh ehh? 
+`Hi! I'm Jay, a freelance web developer from Albay, Philippines.`
 
-## 🧰 My Current Tools 
-- 🌍 Web with HTML5, CSS3 (Sass, TailwindCSS, Bootstrap), JavaScript (jQuery, AJAX), Alpine.js
-- ⚙️ Backend with PHP (Laravel, Laravel Livewire, FilamentPHP), MySQL
-- ☁️ Tools & Platforms: DigitalOcean, Postman, Insomnia
+## 🧰 My Current Stack
+- `Tailwind`, `Sass`, `Bootstrap`, `AlpineJS`, `Laravel`, `Laravel Livewire`, `FilamentPHP`, `MySQL`, `PostgreSQL`, `Postman`, `Insomnia`, `DigitalOcean`
 
-## 🚀 Skills in Progress
-- 🛒 WooCommerce, WordPress
-- ⚛️ Next.js, React.js, ShadCN, TypeScript
-- 🐍 Django 
-- 🐳 Docker
-- 🗄️ PostgreSQL
+## 🚀 Stack in Progress
+- `WooCommerce`, `WordPress`, `Next.js`, `ReactJS`, `ShadCN`, `TypeScript`, `Django`, `Docker`
 
 ![](https://komarev.com/ghpvc/?username=JayDoesPHP&style=flat-square&color=22d4b5&label=Visits) 
 ![GitHub followers](https://img.shields.io/github/followers/jaydoesphp)
