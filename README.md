@@ -1,7 +1,5 @@
 ## **Hi There**
 
-`Hi! I'm Jay, a freelance web developer from Albay, Philippines.`
-
 ## My Current Stack
 - `Tailwind`, `Sass`, `Bootstrap`, `AlpineJS`, `Laravel`, `Laravel Livewire`, `FilamentPHP`, `MySQL`, `PostgreSQL`, `Postman`, `Insomnia`, `DigitalOcean`
 
