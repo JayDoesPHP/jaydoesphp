@@ -1,5 +1,5 @@
-![welcome](https://github.com/user-attachments/assets/82bd10e5-a1dc-43e7-89f3-0adc0e846a11)
-## **Hey there! 👋**
+![welcome](https://github.com/user-attachments/assets/48700155-bcb7-4a0e-9d59-d7e9d15dc674)
+## **Hi there! 👋**
 
 I'm **Jay**, a web developer who enjoys building websites anytime — even late at night 😅.  
 I like learning new tools, writing clean code, and solving problems with tech.
