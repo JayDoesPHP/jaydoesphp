@@ -1,4 +1,6 @@
-![welcome](https://github.com/user-attachments/assets/48700155-bcb7-4a0e-9d59-d7e9d15dc674)
+
+![welcome](https://github.com/user-attachments/assets/7e8223f6-b881-479d-be26-00530f369469)
+
 ## **Hi there! 👋**
 
 I'm **Jay**, a web developer who enjoys building websites anytime — even late at night 😅.  
