@@ -1,5 +1,5 @@
 
-![welcome](https://github.com/user-attachments/assets/7e8223f6-b881-479d-be26-00530f369469)
+![welcome](https://github.com/user-attachments/assets/001deea5-b6a6-4777-b82a-c6fb7641b821)
 
 ## **Hi there! 👋**
 
