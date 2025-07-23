@@ -4,7 +4,7 @@
 ## **Hi there! 👋**
 
 I'm **Jay**, a web developer who enjoys building websites anytime — even late at night 😅.  
-I like learning new tools, writing clean code, and solving problems with tech.
+I like learning new tools, writing clean code, creating videos and solving problems.
 
 > Here's a quick look at the tools I use and the ones I'm currently learning 🚀
 
@@ -106,4 +106,4 @@ I like learning new tools, writing clean code, and solving problems with tech.
 </table>
 
 ![View Profile](https://komarev.com/ghpvc/?username=JayDoesPHP&style=flat-square&color=22d4b5&label=Visits) 
-![GitHub followers](https://img.shields.io/github/followers/jaydoesphp)
+![GitHub followers](https://img.shields.io/github/followers/arxjei)
