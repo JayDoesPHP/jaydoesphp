@@ -3,9 +3,7 @@
 
 ## **Hi there! 👋**
 
-I'm **Jay**, a web developer who enjoys building websites anytime — even late at night 😅.  
-I like learning new tools, writing clean code, creating videos and solving problems.
-
+I’m **Ar Jay**, a web developer who loves learning new tools, writing clean code, making videos, and solving problems.
 > Here's a quick look at the tools I use and the ones I'm currently learning 🚀
 
 <table>
