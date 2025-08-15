@@ -1,10 +1,13 @@
 
 ![welcome](https://github.com/user-attachments/assets/001deea5-b6a6-4777-b82a-c6fb7641b821)
+<hr>
 
-## **Hi there! 👋**
+### Hi there! 👋
 
-I’m **Ar Jay**, a web developer who loves learning new tools, writing clean code, making videos, and solving problems.
-> Here's a quick look at the tools I use and the ones I'm currently learning 🚀
+I'm Ar Jay, I build web applications with a focus on performance, scalability, and great user experiences.  
+
+> Here’s a quick look at the tools I use and what I’m currently learning 🚀
+
 
 <table>
   <tr>
